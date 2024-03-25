@@ -1,1 +1,0 @@
-# MapsterMappingExample-master
