@@ -1,9 +1,6 @@
 # Mapster Mapping 
 
 ## Performance (approx benchmarks)
-
-AutoMapper: 10–15x slower than manual mapping in benchmarks (but fine for most apps).<br>
-Mapster: ~1–2x slower than manual mapping with runtime mapping, equal speed with compile-time generation.<br>
 ✅Mapster is ~10× faster than AutoMapper at runtime, and with compile-time mapping it’s nearly as fast as handwritten code. 
 
 ## ✅ Recommendation
